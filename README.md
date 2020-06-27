@@ -41,4 +41,4 @@ POST API http://localhost:8090/s3_upload/file with formdata key `s3_file`
 * Author - [Raja SIngh](https://www.linkedin.com/in/raja-singh-a097458a/)
 * Medium - [@singhcoolish](https://medium.com/@singhcoolish)
 * Dev.to - [singhcool](https://dev.to/singhcool)
-* LinkedIn = [raja-singh-a097458a](https://www.linkedin.com/in/raja-singh-a097458a/)
+* LinkedIn - [raja-singh-a097458a](https://www.linkedin.com/in/raja-singh-a097458a/)
